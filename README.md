@@ -10,7 +10,10 @@ A simple offline password manager
 一個安全、輕量級的本地密碼管理器，支持 Android 設備。所有資料本地儲存，無雲同步。
 
 <div align="center">
-  <img src="[截圖路徑]" width="300" alt="Vault App 主螢幕">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/3d914615-31b3-4621-a2bb-5afde23b18f0" />
+
+You can get a install release v1.0 on
+https://drive.google.com/file/d/1UWhVrGc5Z4uxsqhZt9X84EpnOUHHgO48/view?usp=sharing
 </div>
 
 ---
@@ -411,9 +414,3 @@ adb shell am start -n com.ysyn_devl.vault_app/.MainActivity
 </div>
 
 
-
-
-<img width="1585" height="880" alt="image" src="https://github.com/user-attachments/assets/3d914615-31b3-4621-a2bb-5afde23b18f0" />
-
-You can get a install release v1.0 on
-https://drive.google.com/file/d/1UWhVrGc5Z4uxsqhZt9X84EpnOUHHgO48/view?usp=sharing
