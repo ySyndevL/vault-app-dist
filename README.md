@@ -10,10 +10,7 @@ A simple offline password manager
 一個安全、輕量級的本地密碼管理器，支持 Android 設備。所有資料本地儲存，無雲同步。
 
 <div align="center">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/3d914615-31b3-4621-a2bb-5afde23b18f0" />
-
-You can get a install release v1.0 on
-https://drive.google.com/file/d/1UWhVrGc5Z4uxsqhZt9X84EpnOUHHgO48/view?usp=sharing
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3d914615-31b3-4621-a2bb-5afde23b18f0" />
 </div>
 
 ---
@@ -66,7 +63,7 @@ https://drive.google.com/file/d/1UWhVrGc5Z4uxsqhZt9X84EpnOUHHgO48/view?usp=shari
 ### 方式 1：直接安裝 APK（推薦）
 
 1. **下載** APK 檔案
-   - 從 [Releases](https://github.com/ySyndevL/vault-app-dist/releases) 頁面下載 `app-release.apk`
+   - 從 [Releases](https://github.com/ySyndevL/vault-app-dist/releases) 頁面下載 `vault_app-releasev1.0.0.apk`
 
 2. **允許安裝未知應用**
    ```
@@ -88,7 +85,7 @@ https://drive.google.com/file/d/1UWhVrGc5Z4uxsqhZt9X84EpnOUHHgO48/view?usp=shari
 adb devices
 
 # 安裝 APK
-adb install app-release.apk
+adb install vault_app-releasev1.0.0.apk
 
 # 啟動應用
 adb shell am start -n com.ysyn_devl.vault_app/.MainActivity
@@ -97,7 +94,7 @@ adb shell am start -n com.ysyn_devl.vault_app/.MainActivity
 ### 方式 3：Google Drive 下載（備用）
 
 如果 GitHub 下載較慢，可使用 Google Drive 連結：
-[vault_app v1.0 - Google Drive](https://drive.google.com/file/d/1UWhVrGc5Z4uxsqhZ9X84EpnOUHHgQ48/view)
+[vault_app v1.0.0 - Google Drive](https://drive.google.com/file/d/1UWhVrGc5Z4uxsqhZ9X84EpnOUHHgQ48/view)
 
 ---
 
