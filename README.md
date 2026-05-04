@@ -1,11 +1,11 @@
-# vault-app
-a simple offline password manager
 # Vault App
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.41.4-blue)](https://flutter.dev)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen)](https://www.android.com)
 [![Release](https://img.shields.io/github/v/release/ySyndevL/vault-app-dist?label=Latest%20Release)](https://github.com/ySyndevL/vault-app-dist/releases)
+
+A simple offline password manager
 
 一個安全、輕量級的本地密碼管理器，支持 Android 設備。所有資料本地儲存，無雲同步。
 
