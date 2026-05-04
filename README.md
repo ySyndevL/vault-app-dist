@@ -94,7 +94,8 @@ adb shell am start -n com.ysyn_devl.vault_app/.MainActivity
 ### 方式 3：Google Drive 下載（備用）
 
 如果 GitHub 下載較慢，可使用 Google Drive 連結：
-[vault_app v1.0.0 - Google Drive](https://drive.google.com/file/d/1UWhVrGc5Z4uxsqhZ9X84EpnOUHHgQ48/view)
+[vault_app v1.0.0 - Google Drive]
+(https://drive.google.com/file/d/1UWhVrGc5Z4uxsqhZt9X84EpnOUHHgO48/view?usp=sharing))
 
 ---
 
