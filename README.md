@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen)](https://www.android.com)
 [![Release](https://img.shields.io/github/v/release/ySyndevL/vault-app-dist?label=Latest%20Release)](https://github.com/ySyndevL/vault-app-dist/releases)
 
-A simple offline password manager
+「🔐 A secure local password manager for Android with AES-256 encryption, multi-language support & backup features」
 
 一個安全、輕量級的本地密碼管理器，支持 Android 設備。所有資料本地儲存，無雲同步。
 
