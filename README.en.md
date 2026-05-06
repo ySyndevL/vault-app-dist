@@ -1,3 +1,31 @@
+# Vault App
+#English
+
+
+[![Flutter](https://img.shields.io/badge/Flutter-3.41.4-blue)](https://flutter.dev)
+
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+[![Platform](https://img.shields.io/badge/Platform-Android-brightgreen)](https://www.android.com)
+
+[![Release](https://img.shields.io/github/v/release/ySyndevL/vault-app-dist?label=Latest%20Release)](https://github.com/ySyndevL/vault-app-dist/releases)
+
+
+
+「🔐 A secure local password manager for Android with AES-256 encryption, multi-language support & backup features」
+
+
+
+<div align="center">
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/3d914615-31b3-4621-a2bb-5afde23b18f0" />
+
+</div>
+
+
+
+---
+
 ```
 
 **Password Tips**:
