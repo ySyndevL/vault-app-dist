@@ -1,5 +1,5 @@
 # Vault App
-## Chinese
+
 [![Flutter](https://img.shields.io/badge/Flutter-3.41.4-blue)](https://flutter.dev)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen)](https://www.android.com)
@@ -13,6 +13,9 @@
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/3d914615-31b3-4621-a2bb-5afde23b18f0" />
 </div>
 
+## Chinese
+```plaintext
+中文版
 ---
 
 ## ✨ 核心功能
