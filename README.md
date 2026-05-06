@@ -340,7 +340,28 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - [ ] 🌙 Auto-lock timer
 
 ---
+Here is the English translation for your GitHub contact and disclaimer sections, using standard professional terminology:
 
+---
+
+## 📧 Contact Information
+
+- **GitHub**: [@ySyndevL](https://github.com/ySyndevL)
+- **Repository**: [vault-app-dist](https://github.com/ySyndevL/vault-app-dist)
+- **Report Issues**: [Issues](https://github.com/ySyndevL/vault-app-dist/issues)
+
+---
+
+## ⚖️ Disclaimer
+
+This application is provided "as is," without warranty of any kind.
+
+*   The developer shall not be held liable for any direct or indirect damages resulting from the use of this application.
+*   **Back up your important data regularly.**
+*   **Do not forget your Master Password** (it cannot be recovered).
+*   Please use this application in compliance with your local laws and regulations.
+
+---
 <div align="center">
 
 **❤️ If Vault App helps you, please give it a ⭐ Star!**
@@ -348,4 +369,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 🔐 Keep Your Passwords Safe, Keep Your Data Private.
 
 </div>
-```
