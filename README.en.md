@@ -256,4 +256,3 @@ This application is provided "as is," without warranty of any kind.
 🔐 Keep Your Passwords Safe, Keep Your Data Private.
 
 </div>
-```
