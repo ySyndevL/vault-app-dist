@@ -17,7 +17,6 @@ For English, see [README.en.md](README.en.md)
 ---
 ## English
 
-```plaintext
 This is an English section.
 
 **Password Tips**:
@@ -184,7 +183,7 @@ adb install vault_app-releasev1.0.0.apk
 
 # Launch the app
 adb shell am start -n com.ysyn_devl.vault_app/.MainActivity
-```
+
 
 ### Method 3: Google Drive (Alternative)
 
