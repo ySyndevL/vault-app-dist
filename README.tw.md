@@ -14,7 +14,6 @@
 </div>
 
 ## Chinese
-```plaintext
 中文版
 ---
 
@@ -92,7 +91,6 @@ adb install vault_app-releasev1.0.0.apk
 
 # 啟動應用
 adb shell am start -n com.ysyn_devl.vault_app/.MainActivity
-```
 
 ### 方式 3：Google Drive 下載（備用）
 
@@ -144,7 +142,6 @@ adb shell am start -n com.ysyn_devl.vault_app/.MainActivity
 點擊「設定主密碼」按鈕
 ↓
 進入應用主頁面
-```
 
 **密碼建議**：
 - ✅ 至少 12 字元
