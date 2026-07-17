@@ -174,6 +174,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
    - Once installed, tap "Open" or find "Vault" in your app drawer.
 
 ### Method 2: ADB Installation (Developers)
+
 ```bash
 # Ensure your Android device is connected
 adb devices
@@ -183,7 +184,7 @@ adb install vault_app-releasev1.0.0.apk
 
 # Launch the app
 adb shell am start -n com.ysyn_devl.vault_app/.MainActivity
-
+```
 
 ### Method 3: Google Drive (Alternative)
 
