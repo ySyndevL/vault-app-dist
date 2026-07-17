@@ -109,12 +109,15 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 <div align="center">
 
 **❤️ If Vault App helps you, please give it a ⭐ Star!Sure thing! Here is the English version of your **Vault App** GitHub README. I've polished the phrasing to sound professional and clear for an international audience.
+</div>
+
 
 ---
 
 ## ✨ Core Features
 
 ### 🔐 Password Management
+
 - **AES-256-GCM Encryption**: Military-grade protection for your data.
 - **Argon2id Key Derivation**: Industry-standard strong key derivation.
 - **Custom Fields**: Manage Website, Username, Password, and Notes.
@@ -122,27 +125,33 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **One-Tap Copy**: Easily copy passwords to your clipboard.
 
 ### 📍 Address Management
+
 - Securely store frequently used addresses.
 - Categorization and tagging support.
 - Fully encrypted storage.
 
 ### 💾 Backup & Restore
+
 - 📦 **Export as `.vault`**: Encrypted binary format (Recommended).
 - 📊 **Export as CSV**: Compatible with spreadsheet software like Excel.
 - 📈 **Export as Excel**: Native `.xlsx` format support.
 - 📥 **Universal Import**: Supports importing from all the above formats.
 
 ### 🌐 Multi-Language Support
+
 - 🇬🇧 English
 - 🇹🇼 Traditional Chinese (繁體中文)
 
 ### 🎨 Modern UI
+
 - Material Design 3 implementation.
 - Intuitive tabbed navigation.
 - Dark Mode optimized.
 - Fully responsive design.
 
 ---
+
+
 
 ## 📋 System Requirements
 
